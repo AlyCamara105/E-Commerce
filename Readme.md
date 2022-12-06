@@ -1,2 +1,2 @@
-Stopped at 8:01
-Note: There is an error with the nav bar. It is not properly using justify content space between for the logo and the links
+Stopped at 19:04
+Note: Add the image vh trick he did on this project to the personal website project
