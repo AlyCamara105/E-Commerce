@@ -1,1 +1,1 @@
-Stopped at 40:17
+Stopped at 1:05:48
